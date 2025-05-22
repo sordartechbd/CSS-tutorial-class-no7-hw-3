@@ -1,0 +1,34 @@
+body {
+    background-color: #f0f4f8; /* light gray-blue */
+    background-image: url(13_html_images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #333333; /* dark gray text for better readability */
+}
+
+h1 {
+    color: #1a1a1a; /* almost black */
+    background-color: #d0eaff; /* soft sky blue */
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.p1 {
+    border: 5px solid #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8); /* translucent background */
+    color: #333;
+}
+
+#p2 {
+    border-width: 5px;
+    border-style: dashed;
+    border-color: #b30000; /* strong dark red */
+    background-color: #fff5f5; /* light red background */
+    padding: 10px;
+    color: #660000;
+    border-radius: 6px;
+}
